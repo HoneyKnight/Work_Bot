@@ -52,7 +52,7 @@ async def get_fresh_vacancies(message: types.Message):
         else:
             await message.answer("Пока нет свежих вакансий...")
 
-        await asyncio.sleep(15)
+        await asyncio.sleep(1200)
 
 
 if __name__ == '__main__':
