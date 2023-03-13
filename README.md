@@ -16,4 +16,5 @@ pip install -r requirements.txt
 ```python
 echo ```TELEGRAM_BOT_TOKEN='write your bot token here'
 USER_ID='write your telegram user id here'
+``` > .env
 ```
