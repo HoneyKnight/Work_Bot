@@ -2,18 +2,9 @@ import json
 import os
 
 import requests
-from aiogram import Bot, Dispatcher
-from aiogram.utils.markdown import hlink
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
 from fake_useragent import UserAgent
 
-load_dotenv()
-
-TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
-
-bot = Bot(token=TELEGRAM_BOT_TOKEN)
-dp = Dispatcher(bot)
 
 path_file = os.path.join(
     os.path.abspath(os.path.dirname(__file__)), 'vacancies_dict.json'
@@ -83,14 +74,3 @@ def update(url_global, tag, tag_class, site):
         get_vacansies_dict()
 
     return fresh_vacancies
-
-
-async def get_vacancies(message, frash_vacancies):
-    frash_vacancies = frash_vacancies
-    if len(frash_vacancies) >= 1:
-        for key, value in sorted(frash_vacancies.items()):
-            vacancies = f"{hlink(value['vacancy_name'], value['vacancy_url'])}"
-
-            await message.answer(vacancies, parse_mode='HTML')
-
-    await message.answer("Пока нет свежих вакансий...")
