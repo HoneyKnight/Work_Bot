@@ -20,10 +20,11 @@ bot = Bot(token=TELEGRAM_BOT_TOKEN)
 dp = Dispatcher(bot)
 
 
-@dp.message_handler(commands="start")
+@dp.message_handler(Text(equals='Старт'))
 async def start(message: types.Message):
     start_buttons = [
         "Свежие вакансии",
+        "Старт"
     ]
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
@@ -44,15 +45,14 @@ async def get_fresh_vacancies(message: types.Message):
         }
 
         if len(frash_vacancies) >= 1:
-            for k, v in sorted(frash_vacancies.items()):
-                vacancies = f"{hlink(v['vacancy_name'], v['vacancy_url'])}"
+            for key, value in sorted(frash_vacancies.items()):
+                vacancies = f"{hlink(value['vacancy_name'], value['vacancy_url'])}"
 
                 await message.answer(vacancies, parse_mode='HTML')
 
-        else:
-            await message.answer("Пока нет свежих вакансий...")
+        await message.answer("Пока нет свежих вакансий...")
 
-        await asyncio.sleep(1200)
+        await asyncio.sleep(600)
 
 
 if __name__ == '__main__':
