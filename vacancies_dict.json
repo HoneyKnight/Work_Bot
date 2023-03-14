@@ -906,5 +906,353 @@
     "1000120726habr": {
         "vacancy_name": "Руководитель группы аналитиков",
         "vacancy_url": "https://career.habr.com/vacancies/1000120726"
+    },
+    "78001113hh": {
+        "vacancy_name": "Менеджер по работе с блогерами",
+        "vacancy_url": "https://nn.hh.ru/vacancy/78001113?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28Java+OR+C%2B%2B+OR+C%23+OR+PHP+OR+Frontend+OR+GO+OR+Node.js+OR+Golang+OR+.Net+OR+IOS+OR+Laravel%29"
+    },
+    "78001114hh": {
+        "vacancy_name": "Менеджер по работе с блогерами",
+        "vacancy_url": "https://nn.hh.ru/vacancy/78001114?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28Java+OR+C%2B%2B+OR+C%23+OR+PHP+OR+Frontend+OR+GO+OR+Node.js+OR+Golang+OR+.Net+OR+IOS+OR+Laravel%29"
+    },
+    "77792860hh": {
+        "vacancy_name": "Менеджер по работе с блогерами",
+        "vacancy_url": "https://nn.hh.ru/vacancy/77792860?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28Java+OR+C%2B%2B+OR+C%23+OR+PHP+OR+Frontend+OR+GO+OR+Node.js+OR+Golang+OR+.Net+OR+IOS+OR+Laravel%29"
+    },
+    "77985706hh": {
+        "vacancy_name": "Менеджер по работе с блогерами",
+        "vacancy_url": "https://nn.hh.ru/vacancy/77985706?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28Java+OR+C%2B%2B+OR+C%23+OR+PHP+OR+Frontend+OR+GO+OR+Node.js+OR+Golang+OR+.Net+OR+IOS+OR+Laravel%29"
+    },
+    "77621937hh": {
+        "vacancy_name": "Менеджер по работе с блогерами",
+        "vacancy_url": "https://nn.hh.ru/vacancy/77621937?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28Java+OR+C%2B%2B+OR+C%23+OR+PHP+OR+Frontend+OR+GO+OR+Node.js+OR+Golang+OR+.Net+OR+IOS+OR+Laravel%29"
+    },
+    "78000628hh": {
+        "vacancy_name": "Team Lead Python Developer",
+        "vacancy_url": "https://nn.hh.ru/vacancy/78000628?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28Java+OR+C%2B%2B+OR+C%23+OR+PHP+OR+Frontend+OR+GO+OR+Node.js+OR+Golang+OR+.Net+OR+IOS+OR+Laravel%29"
+    },
+    "1000121341habr": {
+        "vacancy_name": "Senior Product Analyst (ML)",
+        "vacancy_url": "https://career.habr.com/vacancies/1000121341"
+    },
+    "1000121310habr": {
+        "vacancy_name": "Data Engineer/ETL developer",
+        "vacancy_url": "https://career.habr.com/vacancies/1000121310"
+    },
+    "37984529superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37984529.html"
+    },
+    "37984528superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37984528.html"
+    },
+    "37984527superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37984527.html"
+    },
+    "39819647superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819647.html"
+    },
+    "39819637superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819637.html"
+    },
+    "39819638superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819638.html"
+    },
+    "39819639superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819639.html"
+    },
+    "39819640superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819640.html"
+    },
+    "39819641superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819641.html"
+    },
+    "39819653superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819653.html"
+    },
+    "39819643superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819643.html"
+    },
+    "39819644superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819644.html"
+    },
+    "39819645superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819645.html"
+    },
+    "39819646superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819646.html"
+    },
+    "39819642superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819642.html"
+    },
+    "39819648superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819648.html"
+    },
+    "39819650superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819650.html"
+    },
+    "39819651superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819651.html"
+    },
+    "39819649superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819649.html"
+    },
+    "39819632superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819632.html"
+    },
+    "39819623superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819623.html"
+    },
+    "39819624superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819624.html"
+    },
+    "39819625superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819625.html"
+    },
+    "39819626superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819626.html"
+    },
+    "39819627superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819627.html"
+    },
+    "39819628superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819628.html"
+    },
+    "39819629superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819629.html"
+    },
+    "39819631superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819631.html"
+    },
+    "39819635superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819635.html"
+    },
+    "39819633superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819633.html"
+    },
+    "39819634superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819634.html"
+    },
+    "39819636superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819636.html"
+    },
+    "39819622superjob": {
+        "vacancy_name": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819622.html"
+    },
+    "1000120731habr": {
+        "vacancy_name": "Developer C++ (Data Lake)",
+        "vacancy_url": "https://career.habr.com/vacancies/1000120731"
+    },
+    "1000114942habr": {
+        "vacancy_name": "Стажёр в группу безопасности сервисов",
+        "vacancy_url": "https://career.habr.com/vacancies/1000114942"
+    },
+    "1000105092habr": {
+        "vacancy_name": "Golang developer",
+        "vacancy_url": "https://career.habr.com/vacancies/1000105092"
+    },
+    "1000110604habr": {
+        "vacancy_name": "DevOps инженер",
+        "vacancy_url": "https://career.habr.com/vacancies/1000110604"
+    },
+    "1000115276habr": {
+        "vacancy_name": "Performance Data Collection Engineer",
+        "vacancy_url": "https://career.habr.com/vacancies/1000115276"
+    },
+    "1000116660habr": {
+        "vacancy_name": "Solutions Expert, SOC Solutions",
+        "vacancy_url": "https://career.habr.com/vacancies/1000116660"
+    },
+    "1000120730habr": {
+        "vacancy_name": "Стажер в отдел мобильного бизнеса",
+        "vacancy_url": "https://career.habr.com/vacancies/1000120730"
+    },
+    "1000121324habr": {
+        "vacancy_name": "System Analyst (Системный аналитик)",
+        "vacancy_url": "https://career.habr.com/vacancies/1000121324"
+    },
+    "1000121332habr": {
+        "vacancy_name": "С# .Net Developer (Backend)",
+        "vacancy_url": "https://career.habr.com/vacancies/1000121332"
+    },
+    "47373699rabota_ru": {
+        "vacancy_name": "Продуктовый аналитик (Афиша)",
+        "vacancy_url": "https://nn.rabota.ru/vacancy/47373699/?search_id=1678732652858ogotrotw8j"
+    },
+    "70705466hh": {
+        "vacancy_name": "Python-разработчик (Django, DRF)",
+        "vacancy_url": "https://nn.hh.ru/vacancy/70705466?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28Java+OR+C%2B%2B+OR+C%23+OR+PHP+OR+Frontend+OR+GO+OR+Node.js+OR+Golang+OR+.Net+OR+IOS+OR+Laravel%29"
+    },
+    "37985820superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985820.html"
+    },
+    "37985814superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985814.html"
+    },
+    "37985815superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985815.html"
+    },
+    "37985816superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985816.html"
+    },
+    "37985817superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985817.html"
+    },
+    "37985819superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985819.html"
+    },
+    "37985818superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985818.html"
+    },
+    "37985545superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985545.html"
+    },
+    "37985544superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985544.html"
+    },
+    "37985543superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985543.html"
+    },
+    "37985804superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985804.html"
+    },
+    "37985541superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985541.html"
+    },
+    "37985540superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985540.html"
+    },
+    "37985539superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985539.html"
+    },
+    "37985538superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985538.html"
+    },
+    "37985546superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985546.html"
+    },
+    "37985547superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985547.html"
+    },
+    "37985799superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985799.html"
+    },
+    "37985800superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985800.html"
+    },
+    "37985801superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985801.html"
+    },
+    "37985802superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985802.html"
+    },
+    "37985803superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985803.html"
+    },
+    "37985809superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985809.html"
+    },
+    "37985805superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985805.html"
+    },
+    "37985806superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985806.html"
+    },
+    "37985807superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985807.html"
+    },
+    "37985810superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985810.html"
+    },
+    "37985811superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985811.html"
+    },
+    "37985812superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985812.html"
+    },
+    "37985813superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985813.html"
+    },
+    "37985537superjob": {
+        "vacancy_name": "Специалист службы поддержки (с техническими знаниями)",
+        "vacancy_url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985537.html"
+    },
+    "76784562hh": {
+        "vacancy_name": "Старший системный администратор",
+        "vacancy_url": "https://nn.hh.ru/vacancy/76784562?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28Java+OR+C%2B%2B+OR+C%23+OR+PHP+OR+Frontend+OR+GO+OR+Node.js+OR+Golang+OR+.Net+OR+IOS+OR+Laravel%29"
+    },
+    "47442437rabota_ru": {
+        "vacancy_name": "Специалист технической поддержки",
+        "vacancy_url": "https://nn.rabota.ru/vacancy/47442437/?search_id=1678734332679fnp8hzrtrq9"
+    },
+    "47448258rabota_ru": {
+        "vacancy_name": "Системный администратор Linux",
+        "vacancy_url": "https://nn.rabota.ru/vacancy/47448258/?search_id=1678734332679fnp8hzrtrq9"
+    },
+    "75843014hh": {
+        "vacancy_name": "Специалист команды тех.поддержки",
+        "vacancy_url": "https://nn.hh.ru/vacancy/75843014?from=vacancy_search_list&query=%28Back-end+OR+Backend+OR+%D0%B1%D1%8D%D0%BA%D1%8D%D0%BD%D0%B4+OR+%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4+OR+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+OR+Python+OR+%D0%BF%D0%B8%D1%82%D0%BE%D0%BD+OR+%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD+OR+%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE+OR+DRF+OR+Django%29+AND+%28Developer+OR+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+OR+Engineer+OR+Programmer+OR+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+OR+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%29+AND+NOT+%28PHP+OR+JAVA+OR+Android+OR+C%2B%2B%29"
     }
 }

@@ -20,11 +20,10 @@ bot = Bot(token=TELEGRAM_BOT_TOKEN)
 dp = Dispatcher(bot)
 
 
-@dp.message_handler(Text(equals='Старт'))
+@dp.message_handler(commands="start")
 async def start(message: types.Message):
     start_buttons = [
         "Свежие вакансии",
-        "Старт"
     ]
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
