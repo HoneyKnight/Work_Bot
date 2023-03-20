@@ -7,9 +7,8 @@ from aiogram.utils.markdown import hlink
 from dotenv import load_dotenv
 
 from habr import check_update_habr, check_update_habr_local
-from hh import check_update_hh, check_update_hh_local
+from hh import check_update_hh, check_update_hh_global, check_update_hh_local
 from rabota_ru import check_update_rabota
-from superjob import check_update_superjob
 
 load_dotenv()
 
@@ -37,10 +36,10 @@ async def get_fresh_vacancies(message: types.Message):
         frash_vacancies = {
             **check_update_hh(),
             **check_update_habr(),
-            **check_update_superjob(),
             **check_update_rabota(),
             **check_update_hh_local(),
-            **check_update_habr_local()
+            **check_update_habr_local(),
+            **check_update_hh_global()
         }
 
         if len(frash_vacancies) >= 1:
@@ -48,6 +47,7 @@ async def get_fresh_vacancies(message: types.Message):
                 vacancies = f"{hlink(value['vacancy_name'], value['vacancy_url'])}"
 
                 await message.answer(vacancies, parse_mode='HTML')
+                await asyncio.sleep(1)
 
         await message.answer("Пока нет свежих вакансий...")
 
