@@ -1,4 +1,4 @@
-from config import update
+from general_function import update
 
 url_global = (
     'https://career.habr.com/vacancies?q=python&remote=true&sort=date&type=all'

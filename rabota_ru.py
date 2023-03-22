@@ -1,4 +1,4 @@
-from config import update
+from general_function import update
 
 url_global = 'https://nn.rabota.ru/vacancy/?query=python&sort=relevance&specialization_ids=2644&period=month&all_regions=1'
 

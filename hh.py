@@ -1,4 +1,4 @@
-from config import update
+from general_function import update
 
 url_global = (
     'https://nn.hh.ru/search/vacancy?no_magic=true&L_save_area=true&text=%28Back'

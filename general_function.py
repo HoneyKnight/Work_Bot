@@ -15,8 +15,6 @@ headers = {
 
 def update(url_global, tag, tag_class, site):
 
-    fresh_vacancies = {}
-
     request = requests.get(url=url_global, headers=headers)
     soup = BeautifulSoup(request.text, 'lxml')
     all_vacancies = soup.find_all(tag, class_=tag_class)
@@ -42,11 +40,8 @@ def update(url_global, tag, tag_class, site):
             vacancy_id=vacancy_id,
             vacancy_name=vacancy_name,
             vacancy_url=vacancy_url,
+            created_at=datetime.now(),
         )
-        fresh_vacancies[vacancy_id] = {
-            'vacancy_name': vacancy_name,
-            'vacancy_url': vacancy_url
-        }
         session.add(vacancies)
 
     session.query(Vacancies).filter(
@@ -55,5 +50,3 @@ def update(url_global, tag, tag_class, site):
     session.commit()
 
     session.close()
-
-    return fresh_vacancies
