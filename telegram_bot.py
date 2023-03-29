@@ -41,7 +41,7 @@ async def get_data(message: types.Message):
         check_update_rabota(),
         check_update_hh_local(),
         check_update_habr_local(),
-        check_update_hh_global()
+        check_update_hh_global(),
         await message.answer("Загрузка вакансий прошла успешно")
         await asyncio.sleep(900)
 
